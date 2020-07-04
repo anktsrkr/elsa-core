@@ -68,7 +68,7 @@ namespace Elsa.DistributedLocking.SqlServer
                             logger.LogDebug($"The lock request was chosen as a deadlock victim for {name}");
                             break;
                         case -999:
-                            logger.LogError($"Lock provider error for {name}");
+                            logger.LogError("Lock provider error for {name}",name);
                             break;
                     }
 
