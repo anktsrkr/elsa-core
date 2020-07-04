@@ -12,6 +12,7 @@ Workflows can be defined not only using code but also as JSON, YAML or XML.
 
 ## Get Started
 
+
 Follow the [Getting Started](https://elsa-workflows.github.io/elsa-core/docs/installing-elsa-core) instructions on the [Elsa Workflows documentation site](https://elsa-workflows.github.io/elsa-core).
 
 ## Roadmap
